@@ -1,10 +1,2 @@
-console.log(0)
-console.log(0)
-console.log(0)
-console.log(0)
-console.log(0)
-console.log(0)
-console.log(0)
-console.log(0)
-console.log(0)
-console.log(10)
+// code fore feature A
+console.log("Result A")
